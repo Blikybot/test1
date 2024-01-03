@@ -1,4 +1,4 @@
-# Project 01
+
 > E-Commerce Data Pipeline
 
 ## The Business problem
